@@ -28,10 +28,10 @@ Informative, Creative, Logical Reasoning, Instruction-following, and Conversatio
 - Tone & Coherence (Natural language quality)
 
 ## Procedure:
-.Standardized prompts were created across 5 types.
-2.Each was entered into all 5 AI platforms.
-3.Responses were collected and evaluated by 3 human reviewers using a 1–5 rating scale for each metric.
-4.Averages were calculated and compared across models.
+- Standardized prompts were created across 5 types.
+- Each was entered into all 5 AI platforms.
+- Responses were collected and evaluated by 3 human reviewers using a 1–5 rating scale for each metric.
+- Averages were calculated and compared across models.
 
 # Prompt Types Explained:
 
