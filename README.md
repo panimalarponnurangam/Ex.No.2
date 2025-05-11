@@ -13,56 +13,68 @@ To compare the performance, user experience, and response quality of different A
 - Cohere Command R+ ->	cohere.com API access
 - Meta LLaMA ->	Open-source via HuggingFace or local deployment
 
-### Methodology
-# Platforms Tested: 
+# Methodology
+## Platforms Tested: 
 ChatGPT (OpenAI GPT-4), Claude (Anthropic), Bard (Google Gemini), Cohere Command R+, Meta LLaMA (through open-source deployment or third-party interfaces).
 
-# Prompt Types:
+## Prompt Types:
 Informative, Creative, Logical Reasoning, Instruction-following, and Conversational.
 
-# Evaluation Metrics:
+## Evaluation Metrics:
 - Relevance (How closely the output matches the prompt)
 - Accuracy (Correctness of information)
 - Creativity (Novelty in responses)
 - Conciseness (Clear and brief)
 - Tone & Coherence (Natural language quality)
 
-# Procedure:
+## Procedure:
 1.Standardized prompts were created across 5 types.
 2.Each was entered into all 5 AI platforms.
 3.Responses were collected and evaluated by 3 human reviewers using a 1–5 rating scale for each metric.
 4.Averages were calculated and compared across models.
 
-### Prompt Types Explained:
+# Prompt Types Explained:
 
 ## 1. Informative Prompt
 **Prompt:** “Explain Quantum Computing in simple terms.”
 
 **ChatGPT:** Clear analogy-based explanation using real-world comparisons.
+
 **Claude:** Similar clarity but slightly more verbose.
+
 **Bard:** Balanced technical depth and simplicity.
+
 **Cohere Command:** Less engaging, but accurate.
+
 **Meta LLaMA:** Technical, but less user-friendly.
 
 ## 2. Creative Prompt
 **Prompt:** “Write a poem about time as a river.”
 
 **ChatGPT:** Vivid imagery, metaphor-rich.
+
 **Claude:** Philosophical tone with narrative flow.
+
 **Bard:** Elegant but slightly mechanical.
+
 **Cohere Command:** Limited creativity.
+
 **Meta LLaMA:** Abstract, inconsistent rhyme.
 
 ## 3. Logical Reasoning Prompt
 **Prompt:** “If all cats are mammals and some mammals are not cats, is it true that all mammals are cats?”
 
 **ChatGPT:** Clear logical reasoning, correct.
+
 **Claude:** Correct with step-by-step reasoning.
+
 **Bard:** Accurate but less detailed.
+
 **Cohere Command:** Confused logic.
+
 **Meta LLaMA:** Inconsistent logic.
 
-4. 🛠️ Instruction-following Prompt
+## 4. Instruction-following Prompt
 **Prompt:** “List 3 benefits of solar energy in bullet points.”
 
 **ChatGPT:** Follows instruction perfectly.
@@ -73,35 +85,45 @@ Informative, Creative, Logical Reasoning, Instruction-following, and Conversatio
 
 **Cohere Command:** Sometimes misses bullet formatting.
 
-Meta LLaMA: May skip structure or add extras.
+**Meta LLaMA:** May skip structure or add extras.
 
-5. 🗣️ Conversational Prompt
-Prompt: “I’m feeling nervous before an exam. Can you help?”
+## 5. Conversational Prompt
+**Prompt:** “I’m feeling nervous before an exam. Can you help?”
 
-ChatGPT: Empathetic, practical advice.
+**ChatGPT:** Empathetic, practical advice.
 
-Claude: Gentle and supportive.
+**Claude:** Gentle and supportive.
 
-Bard: Informative but less emotional.
+**Bard:** Informative but less emotional.
 
-Cohere Command: Robotic tone.
+**Cohere Command:** Robotic tone.
 
-Meta LLaMA: Not emotionally aligned.
-7. 💻 Code Generation Prompt (New)
-Prompt: “Write a Python function to check if a string is a palindrome.”
+**Meta LLaMA:** Not emotionally aligned.
 
-ChatGPT: Correct, well-commented code
+## 7.Code Generation Prompt (New)
+**Prompt:** “Write a Python function to check if a string is a palindrome.”
 
-Claude: Accurate with explanations
+**ChatGPT:** Correct, well-commented code
 
-Bard: Clean code, minimal comments
+**Claude:** Accurate with explanations
 
-Cohere: Works but no explanation
+**Bard:** Clean code, minimal comments
 
-Meta: Often incomplete or syntax errors
+**Cohere:** Works but no explanation
 
+**Meta:** Often incomplete or syntax errors
 
-### Conclusion: 
+# Summary:
 
+**ChatGPT (GPT-4)** - leads in versatility, structure, and creativity.
 
-# Result : The Prompt for the above problem statement executed successfully.
+**Claude** - is excellent for empathy and deep reasoning.
+
+**Bard (Gemini)** - offers concise and technically accurate results but lacks consistency.
+
+**Cohere** - Command is good for factual tasks but not ideal for creative or emotional prompts.
+
+**Meta LLaMA** - is best used by developers with customization needs but not yet consumer-ready in natural conversation.
+
+ # Result : 
+Thus, the evaluation of prompting tools across leading AI platforms- ChatGpt , Claude , Bard , Cohere Command, and Meta’s based models has been analysed.
